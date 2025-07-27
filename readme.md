@@ -48,7 +48,8 @@ cloud-web-app/
 
 ![Alt Text](image-url-or-path)
 
-
+# adding image #
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/e87a6b32-40d1-4254-92c6-d343a14d5414" />
 
 
 **Bold Text ***
